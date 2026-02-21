@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Feb  6 01:55:49 2026
+# Process ID: 3860
+# Current directory: D:/Vivado/VIVADO Projects/optoML_task/optoML_task.runs/synth_1
+# Command line: vivado.exe -log top_wrap.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_wrap.tcl
+# Log file: D:/Vivado/VIVADO Projects/optoML_task/optoML_task.runs/synth_1/top_wrap.vds
+# Journal file: D:/Vivado/VIVADO Projects/optoML_task/optoML_task.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_wrap.tcl -notrace
